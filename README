@@ -2,7 +2,7 @@ NAME
     Net::IP::Minimal - Minimal functions from Net::IP
 
 VERSION
-    version 0.04
+    version 0.06
 
 SYNOPSIS
       use Net::IP::Minimal qw[:PROC];
